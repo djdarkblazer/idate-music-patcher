@@ -18,22 +18,30 @@ const GITHUB_CONFIG = {
 const CACHE_FILE = path.join(app.getPath('userData'), 'file-cache.json');
 
 function createWindow() {
+  const iconPath = path.join(__dirname, '/images/icon-idate-emulator.ico'); 
   mainWindow = new BrowserWindow({
     width: 800,
-    height: 800,
+    height: 900,
     resizable: false,
     webPreferences: {
       nodeIntegration: false,
       contextIsolation: true,
       preload: path.join(__dirname, 'preload.js')
     },
-    autoHideMenuBar: true
+    autoHideMenuBar: true,
+    icon: iconPath
   });
 
   mainWindow.loadFile('index.html');
 }
 
-app.whenReady().then(createWindow);
+app.whenReady().then(() => {
+  createWindow();
+  if (process.platform === 'darwin') {
+    // macOS dock icon uses .png format generally
+    app.dock.setIcon(path.join(__dirname, '/images/icon-idate-emulator.ico'));
+  }
+});
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') app.quit();
