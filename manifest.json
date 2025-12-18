@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-18T16:50:31.184Z",
+  "totalFiles": 17,
+  "totalSize": 28101399,
+  "files": [
+    {
+      "path": "Common/AniTable01.ido",
+      "sha256": "c1aa498166b76aae1bb775c099f024ae2e34ef1e858e790c82ba67fbf6b9990e",
+      "size": 1361,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Common/AniTable01.ido"
+    },
+    {
+      "path": "Common/GameSound.ido",
+      "sha256": "5bd2fe3d53e003dff0adf93a25916f962f354156ed98fcc0a523d8eac5f788cb",
+      "size": 5198,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Common/GameSound.ido"
+    },
+    {
+      "path": "Sound/0158.ido",
+      "sha256": "22cde8b469b3db2c6a7680399e3ab762f1f5115bc45cfb1c582932926aad084e",
+      "size": 1037,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/0158.ido"
+    },
+    {
+      "path": "Sound/0158_8key.ido",
+      "sha256": "306956b26f09197034eb94ceb622fda4335c65c510022962e2d9fb79194bae2d",
+      "size": 1259,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/0158_8key.ido"
+    },
+    {
+      "path": "Sound/0159.ido",
+      "sha256": "31ac0a47d3a2a0bc73f8195602cba8d9b6587c449275c12896802bc914474b43",
+      "size": 1228,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/0159.ido"
+    },
+    {
+      "path": "Sound/0159_8key.ido",
+      "sha256": "fa00d6504dbc316e090378ffb5f685cff184c940d2c3bc29aa7918773c38e652",
+      "size": 1408,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/0159_8key.ido"
+    },
+    {
+      "path": "Sound/0160.ido",
+      "sha256": "9341a18512ed543707866a57574ac801855731c198ebd7d6e54f113fc95266f7",
+      "size": 984,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/0160.ido"
+    },
+    {
+      "path": "Sound/0160_8key.ido",
+      "sha256": "ef7af1b034e85b66d5d17de0bfef5aaecca4c1ea52e5df6e0e8ce3c9d6e329ed",
+      "size": 1480,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/0160_8key.ido"
+    },
+    {
+      "path": "Sound/bgmlobby.ogg",
+      "sha256": "97b6f36f02a36be325a7a69f394122100659809230806c2271acaacdbe1fcd8a",
+      "size": 3382097,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgmlobby.ogg"
+    },
+    {
+      "path": "Sound/bgm_0158.ogg",
+      "sha256": "5b9a3b41ec597ea7108d4c99a3d71c2909e1f773bffa63c33b290e30a86799b7",
+      "size": 2545268,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_0158.ogg"
+    },
+    {
+      "path": "Sound/bgm_0159.ogg",
+      "sha256": "980eb30d6e17ad6b6a3106de41b9746391079914b0d51d4e115d4bb764ced943",
+      "size": 4068223,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_0159.ogg"
+    },
+    {
+      "path": "Sound/bgm_0160.ogg",
+      "sha256": "f717d53ebfe6804fa48489a781186474bec35c50dffb3a9131de7c7ce512c239",
+      "size": 2875075,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_0160.ogg"
+    },
+    {
+      "path": "Sound/bgm_christmas01.ogg",
+      "sha256": "0bc4360f069c0c5232105dd906bd304205dcd34d08c96f243c8cb43ec2259585",
+      "size": 3166891,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_christmas01.ogg"
+    },
+    {
+      "path": "Sound/bgm_christmas02.ogg",
+      "sha256": "97f12c6688893437745cb7f964f9bd7be769801c0a159d93a19011da0fc9d5f1",
+      "size": 2750451,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_christmas02.ogg"
+    },
+    {
+      "path": "Sound/bgm_christmas03.ogg",
+      "sha256": "0bc4360f069c0c5232105dd906bd304205dcd34d08c96f243c8cb43ec2259585",
+      "size": 3166891,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_christmas03.ogg"
+    },
+    {
+      "path": "Sound/bgm_christmas04.ogg",
+      "sha256": "97f12c6688893437745cb7f964f9bd7be769801c0a159d93a19011da0fc9d5f1",
+      "size": 2750451,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_christmas04.ogg"
+    },
+    {
+      "path": "Sound/bgm_lb1.ogg",
+      "sha256": "97b6f36f02a36be325a7a69f394122100659809230806c2271acaacdbe1fcd8a",
+      "size": 3382097,
+      "url": "https://raw.githubusercontent.com/djdarkblazer/idate-music/Media/Sound/bgm_lb1.ogg"
+    }
+  ]
+}
